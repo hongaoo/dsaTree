@@ -1,0 +1,11 @@
+﻿  bi_tree.c
+  link_list.c
+link_list.c(93): warning C4047: “函数”:“Link *”与“LNode *”的间接级别不同
+link_list.c(93): warning C4024: “MakeLNode”: 形参和实参 1 的类型不同
+  正在生成代码
+  10 of 10 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  dsaTree.vcxproj -> F:\visualsudioworkspace\dsaTree\dsaTree\Release\dsaTree.exe
+  dsaTree.vcxproj -> F:\visualsudioworkspace\dsaTree\dsaTree\Release\dsaTree.pdb (Full PDB)
